@@ -13,8 +13,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 # --- IMPORTS ---
 from scapy.all import sniff
 from scapy.layers.inet import IP, TCP, UDP
-
-
 # ==========================================
 # CONFIGURATION
 # ==========================================
